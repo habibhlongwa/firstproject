@@ -11,8 +11,7 @@ package com.mycompany.githubtest;
 public class Githubtest {
 
     public static void main(String[] args) {
-        int a= 5;
-        int b= 10;
-        
+       int a = 5;
+       int b = 10;
     }
 }
